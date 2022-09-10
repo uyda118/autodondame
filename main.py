@@ -945,8 +945,8 @@ def tools():
 ##############################################################################################
 def title():
     
-print("                   TOOL DDOS + Decode By Lế Thế Gia Uy!")
-print("                   TOOL GỐC: HASOKI ")
+stdout.write("                   TOOL DDOS + Decode By Lế Thế Gia Uy!")
+stdout.write("                   TOOL GỐC: HASOKI ")
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTWHITE_EX   +"       PENTEST DOS MUTIL METHOD           "+Fore.LIGHTGREEN_EX  +"          ║\n")
